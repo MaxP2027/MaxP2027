@@ -11,3 +11,10 @@ Chicago's new quantum campus has me learning about the fundamentals.
 ### Currently learning
 - Quantum computing fundamentals
 - Machine Learning Fundamentals
+
+
+## Technical Skills
+- Python - Matplotlib, Pandas, Flask
+- Java - Data Structures and Algorithms
+- Prompt Engineering 
+- Networking: Cisco Packet Tracer
