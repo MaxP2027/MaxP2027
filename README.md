@@ -21,7 +21,13 @@ Chicago's new quantum campus has me learning about the fundamentals.
 
 
 ## Learning Goals
-- Complete SEC+ Exam
+- Complete and Pass SEC+ Exam
 - Proficiency in System Design
 - Proficiency in Prompt Engineering
 - Full Stack Development 
+
+## 📫 Let's Connect
+- **LinkedIn**: Maximiliano Perez (https://www.linkedin.com/in/maximiliano-perez-0a641b290/)
+- **Email**: maximiliano.j.perez.2005@gmail.com
+
+
