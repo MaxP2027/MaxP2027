@@ -18,3 +18,10 @@ Chicago's new quantum campus has me learning about the fundamentals.
 - Java - Data Structures and Algorithms
 - Prompt Engineering 
 - Networking: Cisco Packet Tracer
+
+
+## Learning Goals
+- Complete SEC+ Exam
+- Proficiency in System Design
+- Proficiency in Prompt Engineering
+- Full Stack Development 
