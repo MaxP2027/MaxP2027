@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Maximiliano 👋
 
-<!--
-**MaxP2027/MaxP2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Saint Xavier University (Chicago, IL), headed toward grad school 
+in Software Engineering / Cybersecurity. Currently exploring Quantum Computing — 
+Chicago's new quantum campus has me learning about the fundamentals.
 
-Here are some ideas to get you started:
+### What I'm working on
+- Full Stack Development - App for self contracted plumbers to schedule house calls and appointments 
+- Completing Course work for SEC+ Certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+- Quantum computing fundamentals
+- Machine Learning Fundamentals
