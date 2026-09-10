@@ -29,5 +29,6 @@ Chicago's new quantum campus has me learning about the fundamentals.
 ## 📫 Let's Connect
 - **LinkedIn**: Maximiliano Perez (https://www.linkedin.com/in/maximiliano-perez-0a641b290/)
 - **Email**: maximiliano.j.perez.2005@gmail.com
+------------------------------------------------
 
 
